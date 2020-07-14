@@ -1,4 +1,4 @@
 */obj/Debug/*
 */bin/Debug/*
-RecruitmentProject/packages/
-RecruitmentProject/.vs/RecruitmentProject/v16/
+*/packages/*
+*.vs/*
